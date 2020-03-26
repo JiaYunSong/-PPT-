@@ -30,4 +30,3 @@ for i in range(len(img_path)):
     print(f"第{i}页完成获取")
 
 # 不用尝试多线程，速度一样烂
-# Copylefts.RSMX.CIEE-CAU.2020-03-25
